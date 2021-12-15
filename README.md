@@ -1,2 +1,6 @@
-# dio_desafio_github_primeiro_repositorio
-Desafio de Protejo sobre git/github da digital innovation one 
+# Desafio de Projeto de Git/Github da DIO
+Repositório criado para o Desafio de Projeto.
+
+## Links úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
