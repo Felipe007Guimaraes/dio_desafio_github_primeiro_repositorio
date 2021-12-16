@@ -1,2 +1,39 @@
 Link para download do Git https://git-scm.com/downloads
 O Git Bash é um console extendido para otimizar o uso do Git.
+
+Comandos básicos Git
+
+git init
+inicia um repositório local
+
+
+
+git version
+Mostra a versão do Git.
+
+git status
+Verifica em quais estados os arquivos estão.
+
+git clone
+Seleciona um repositório existente e cria um clone ou copia do repositório de destino.
+
+git add <nomeDoArquivo>
+Envia seu arquivo especificado para stage.
+
+git add --all
+envia todos os arquivos para stage.
+
+git remote add origin
+*URL do repositório*: adiciona e indica a URL que os repositórios remotos serão mantidos.
+
+git push origin main
+*URL do repositório*: envia os arquivos para o repositório remoto que você especificou através da URL do comando.
+
+git commit -m "título do commit"
+Envia o que está no stage para o HEAD.
+
+git checkout -b <nomeDaBranch>
+Cria uma nova Branch.
+
+git checkout <nomeDaBranch>
+Altera para a Branch especificada.
